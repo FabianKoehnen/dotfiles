@@ -1,0 +1,12 @@
+package aws
+package bass
+package brew
+package cd
+package colored-man-pages
+package composer
+package doch
+package https://github.com/demartini/plugin-docker-compose
+package osx
+package thefuck
+theme default
+theme spacefish
